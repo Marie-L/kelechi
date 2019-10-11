@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Marie-L/kelechi/issues"
   },
-  "homepage": "https://github.com/Marie-L/kelechi#readme"
+  "homepage": "https://github.com/Marie-L/kelechi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
