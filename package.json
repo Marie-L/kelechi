@@ -1,0 +1,19 @@
+{
+  "name": "kelechi",
+  "version": "1.0.0",
+  "description": "proof of concept photography website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marie-L/kelechi.git"
+  },
+  "author": "Marie-Louise Annan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marie-L/kelechi/issues"
+  },
+  "homepage": "https://github.com/Marie-L/kelechi#readme"
+}
