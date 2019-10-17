@@ -1,0 +1,16 @@
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    font-family: 'Almarai', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding-right: 210px;
+    color: white;
+    opacity: 0.6;
+}
