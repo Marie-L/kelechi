@@ -5,11 +5,11 @@
  
 ### Client requirement checklist
 
--[x] Home page
--[x] About page
--[x] Photo catalogue (filterable)
--[x] Contact page
--[x] Blog page
+- [x] Home page
+- [x] About page
+- [x] Photo catalogue (filterable)
+- [x] Contact page
+- [x] Blog page
 
 
 ### User Guide
